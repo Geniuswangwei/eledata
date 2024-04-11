@@ -54,7 +54,7 @@
 
 ## 说明
 
-- 大多数材料给出的参数都是以图表形式给出，这里我们使用了软件https://getdata-graph-digitizer.software.informer.com/获得材料的具体参数；
+- 大多数材料给出的参数都是以图表形式给出，这里我们使用了软件 https://getdata-graph-digitizer.software.informer.com/ 获得材料的具体参数；
 - 对于相同名称材料，在不同频率下有不同材料参数，往往这种材料可以通过插值方法获得未知频率下的材料参数；
 
 
